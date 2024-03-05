@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\obj\Debug\2.UNİTE UYGULAMA 17.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\obj\Debug\_2.UNİTE_UYGULAMA_17.Form1.resources
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\obj\Debug\_2.UNİTE_UYGULAMA_17.Properties.Resources.resources
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\obj\Debug\2.UNİTE UYGULAMA 17.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\obj\Debug\2.UNİTE UYGULAMA 17.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\bin\Debug\2.UNİTE UYGULAMA 17.exe.config
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\bin\Debug\2.UNİTE UYGULAMA 17.exe
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\bin\Debug\2.UNİTE UYGULAMA 17.pdb
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\obj\Debug\2.UNİTE UYGULAMA 17.exe
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 17\2.UNİTE UYGULAMA 17\obj\Debug\2.UNİTE UYGULAMA 17.pdb
